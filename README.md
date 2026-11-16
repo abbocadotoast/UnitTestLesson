@@ -1,4 +1,5 @@
 # CS 304 – Unit Testing (Nov 2)
+![tests](https://github.com/abbocadotoast/UnitTestLesson.git/actions/workflows/tests.yml/badge.svg)
 
 Setup (once):
 
